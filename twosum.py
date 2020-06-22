@@ -5,8 +5,6 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        # create list to store indices
-        # var to store previous number
         
         print(nums)
         indices = []
